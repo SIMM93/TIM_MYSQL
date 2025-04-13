@@ -23,7 +23,7 @@ Java 1.8 下载地址 https://repo.huaweicloud.com/java/jdk/8u151-b12/jdk-8u151-
 1. 安装目录中的TSM插件至游戏（4.13修复版可扫描、上架）
 2. 进入游戏扫描拍卖行/TSMSCAN
 3. 下线
-4. 配置TsmEConfig.txt  主要是输入tsm扫描后的文件
+4. 配置TsmEConfig.txt  
 5. 双击WOW_TSM-MYSQL_1.0.bat
 6. 项目会自动插入最新扫描的AH数据，并每5分钟定时插入（如有更新），且返回简要信息，这里可以自行定义。（当前默认返回倒卖数据。目录下有示例） 
 

@@ -13,6 +13,7 @@ serverList@
 逐風者,古雷曼格
 serverList#
 
+--TSM扫描文件地址按照英文逗号隔开，可局域网----
 TsmDBPath@
 G:\CN World of Warcraft\_classic_\WTF\Account\15065#17#4\SavedVariables\TradeSkillMaster.lua,
 \\DESKTOP-R2NCO5J\ssd\World of Warcraft\_classic_\WTF\Account\1506#1#7#2\SavedVariables\TradeSkillMaster.lua
