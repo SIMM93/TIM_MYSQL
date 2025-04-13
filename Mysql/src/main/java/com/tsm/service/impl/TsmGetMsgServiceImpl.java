@@ -50,8 +50,8 @@ public class TsmGetMsgServiceImpl implements TsmGetMsgService {
     public void init() throws IOException {
         System.out.println("启动！");
         /*System.out.println("当前时间: " + LocalDateTime.now());
-
-        runtime();*/
+         */
+        runtime();
     }
 
     @Override
@@ -140,6 +140,7 @@ public class TsmGetMsgServiceImpl implements TsmGetMsgService {
         getMap.put(trash, getMap(trash, k));
         getMap.put(notInGuild, getMap(notInGuild, k));
         getMap.put(TsmDBPath, getMap(TsmDBPath, k));
+        getMap.put(serverList, getMap(serverList, k));
 
         return getMap;
     }

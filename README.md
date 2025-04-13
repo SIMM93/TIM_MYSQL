@@ -17,7 +17,7 @@
 ## 环境要求
 Java 1.8 下载地址 https://repo.huaweicloud.com/java/jdk/8u151-b12/jdk-8u151-windows-x64.exe
 
-请提前配置好数据库，库表文件在 其他/数据库 文件夹下，数据库名WOW，默认地址 localhost:3306/WOW 
+请提前配置好数据库，库表文件在 其他/数据库 文件夹下，数据库名WOW，默认地址 localhost:3306/WOW  账密root/root
 
 ## 使用方式
 1. 安装目录中的TSM插件至游戏（4.13修复版可扫描、上架）
