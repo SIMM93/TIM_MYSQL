@@ -1,0 +1,19 @@
+trashIdList@
+38682,5956,7005
+trashIdList#
+
+
+notInGuild@
+GMH
+notInGuild#
+
+------扫描的服务器--------
+
+serverList@
+逐風者,古雷曼格
+serverList#
+
+TsmDBPath@
+G:\CN World of Warcraft\_classic_\WTF\Account\15065#17#4\SavedVariables\TradeSkillMaster.lua,
+\\DESKTOP-R2NCO5J\ssd\World of Warcraft\_classic_\WTF\Account\1506#1#7#2\SavedVariables\TradeSkillMaster.lua
+TsmDBPath#

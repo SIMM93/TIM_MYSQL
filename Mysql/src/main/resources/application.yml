@@ -1,0 +1,38 @@
+server:
+  port: 3998
+
+spring:
+
+
+  # ===============================
+  # = Mysql configurations
+  # 请自行修改
+  # ===============================
+  datasource:
+    url: jdbc:mysql://localhost:3306/WOW?useSSL=false&prepStmtCacheSize=517&cachePrepStmts=true&autoReconnect=true&characterEncoding=utf-8&allowMultiQueries=true
+    username: root
+    password: root
+
+
+
+
+  # ===============================
+  # = JPA configurations
+  # ===============================
+  jpa:
+    database: MYSQL
+    database-platform: MYSQL
+    hibernate:
+      naming:
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL5Dialect
+
+logging:
+  level:
+    root: off
+    org:
+      springframework:
+        jdbc:
+          datasource: warn
