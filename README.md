@@ -25,7 +25,9 @@ Java 1.8 下载地址 https://repo.huaweicloud.com/java/jdk/8u151-b12/jdk-8u151-
 3. 下线
 4. 配置TsmEConfig.txt  
 5. 双击WOW_TSM-MYSQL_1.0.bat
-6. 项目会自动插入最新扫描的AH数据，并每5分钟定时插入（如有更新），且返回简要信息，这里可以自行定义。（当前默认返回倒卖数据。目录下有示例） 
+6. 项目会自动插入最新扫描的AH数据，并每5分钟定时插入（如有更新），且返回简要信息，可以自行定义，当前默认返回倒卖数据。 
+示例：
+  <img src="https://github.com/SIMM93/TIM_MYSQL/blob/main/%E5%85%B6%E4%BB%96/%E7%A4%BA%E4%BE%8B.png" alt="shili">
 
 ## 爱发电
 
